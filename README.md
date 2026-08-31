@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SeventID/SeventID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![85719.jpg](https://qualified-penguin-889.convex.cloud/api/storage/1128f996-4b00-4e92-9134-9c2769f8bdf7)
