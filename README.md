@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Welcome to my corner of the internet. I'm passionate about building things that matter and exploring the cutting edge of technology. Let's create something amazing together.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SeventID-18171f?style=flat-square&logo=github&logoColor=white)](https://github.com/SeventID)
-[![Discord](https://img.shields.io/badge/Discord-SeventID-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-SeventID-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wVABHD8T9e)
 
 ---
 
@@ -174,7 +174,7 @@ Technology evolves rapidly. I stay current with trends, learn new tools, and con
 
 **Let's build something great together!**
 
-[GitHub](https://github.com/SeventID) • [Discord](https://discord.com) • [Email](#)
+[GitHub](https://github.com/SeventID) • [Discord]([https://discord.com](https://discord.gg/wVABHD8T9e)) • [Email](Zieroblan07@gmail.com)
 
 </div>
 
