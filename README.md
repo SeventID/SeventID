@@ -174,7 +174,7 @@ Technology evolves rapidly. I stay current with trends, learn new tools, and con
 
 **Let's build something great together!**
 
-[GitHub](https://github.com/SeventID) • [Discord]([https://discord.com](https://discord.gg/wVABHD8T9e)) • [Email](Zieroblan07@gmail.com)
+[GitHub](https://github.com/SeventID) • [Discord]([https://discord.gg/wVABHD8T9e](https://discord.gg/wVABHD8T9e)) • [Email](Zieroblan07@gmail.com)
 
 </div>
 
