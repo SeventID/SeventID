@@ -59,7 +59,7 @@ I'm a developer who thrives on building innovative solutions and pushing the bou
 <div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SeventID&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=SeventID&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.app?user=SeventID&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SeventID)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=SeventID&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=SeventID&langs_count=4&theme=dark)
 
