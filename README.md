@@ -58,7 +58,7 @@ I'm a developer who thrives on building innovative solutions and pushing the bou
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=SeventID&layout=compact&custom_title=Stats%20on%20board&langs_count=6&display_format=percent&theme=dark)](https://wakatime.com/@Zennith)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SeventID&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=SeventID&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.app?user=SeventID&theme=transparent&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeventID&layout=compact&hide_border=true&theme=transparent)
